@@ -76,4 +76,3 @@ The system demonstrates a practical approach to recommending movies based on tex
 ## Acknowledgements
 
 This project was completed as part of my internship at **CodTech IT Solutions**.
-```
